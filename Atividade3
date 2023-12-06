@@ -1,0 +1,11 @@
+Para realização dessa atividade eu busquei dentro do Studeo o meu Email de aluno da Unicesumar.
+Em seguida entrei no GitHub e solicite a criação dessa nova conta, onde usei meu Email Unicesumar.
+Acessei o Gmail para resgatar o código solicitado na criação da conta.
+Utilizei meu RA como username aqui na plataforma GitHub.
+Em seguida criar um repositório com nome "hello-world" para armazenar toda sequência da atividade.
+Dentro do repositório criar esse arquivo de nome "Atividade 3" no Main Branch e salvar, realizando um commit no arquivo.
+Em seguida criar um branch a parte para trabalhar na edição do arquivo, nomeando o branch como "Branch da Atividade 3".
+Dentro do Branch, realizar a alteração do arquivo "Atividade 3", incrementando o texto salvo ali.
+Realizar o commit do arquivo "Atividade 3" atualizando ele dentro do branch "Branch da Atividade 3".
+Na sequência, abrir um Pull Request solicitando atualizar o Main Branch com as alterações realizadas no branch "Branch da Atividade 3", incluindo o novo texto no arquivo "Atividade 3".
+Por fim, aprovar o Pull Request finalizando ele em um Merge que concluirá a operação, atualizando o Main Branch em sua totalidade.
